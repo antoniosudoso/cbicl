@@ -1,6 +1,6 @@
 ## Exact and Heuristic Algorithms for Constrained Biclustering
 
-This repository contains the implementation of **CBICL-BB** and **CBICL-LR**, described in the paper ["Exact and Heuristic Algorithms for Constrained Biclustering"](). **CBICL-BB** is an exact algorithm, based on the branch-and-cut technique, for constrained biclustering through the $k$-densest-disjoint biclique criterion with must-link and cannot-link constraints. **CBICL-LR** is a heuristic algorithm based on a low-rank factorization of the SDP relaxation.  Datasets and constraint sets used in the experiments are available in the `Data` folder.
+This repository contains the implementation of **CBICL-BB** and **CBICL-LR**, described in the paper ["Exact and Heuristic Algorithms for Constrained Biclustering"](https://arxiv.org/abs/2508.05493). **CBICL-BB** is an exact algorithm, based on the branch-and-cut technique, for constrained biclustering through the $k$-densest-disjoint biclique criterion with must-link and cannot-link constraints. **CBICL-LR** is a heuristic algorithm based on a low-rank factorization of the SDP relaxation.  Datasets and constraint sets used in the experiments are available in the `Data` folder.
 
 ## CBICL-BB
 
